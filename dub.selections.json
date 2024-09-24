@@ -1,0 +1,15 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"automem": "0.6.10",
+		"hunt": "1.7.17",
+		"mir-linux-kernel": "1.0.1",
+		"numem": "0.20.0",
+		"resusage": "0.4.0",
+		"silly": "1.1.1",
+		"tanya": "0.19.0",
+		"test_allocator": "0.3.4",
+		"unit-threaded": "2.2.0",
+		"zero-memory": "0.2.2"
+	}
+}
