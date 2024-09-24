@@ -40,11 +40,12 @@ EngineM provides a quite a few allocators, as well as some memory management uti
 
 ## Installation
 
-You can install EngineM using [Dub](https://code.dlang.org/getting_started#package-manager), the D package manager:
+You can install EngineM using [Dub](https://code.dlang.org/getting_started#package-manager):
 
 ```bash
 dub add enginem
 ```
+└── _Note: You may need to clone the repo first, and add it to your project locally for the time being._
 
 ## Getting Started
 
@@ -69,10 +70,6 @@ void main() {
     // The memory will be deallocated automatically when the arena goes out of scope
 }
 ```
-
-## Documentation
-
-- [API Documentation](https://chris-c.github.io/enginem-docs/enginem/index.html):  Detailed API reference for all classes and functions.
 
 ## Contributing
 
