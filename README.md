@@ -1,6 +1,6 @@
 # Engine M: Flexible Memory Management for D
 
-EngineM is a D library designed to make writing `@nogc` code a bit easier. 
+EngineM is a D library designed to make writing `@nogc` code a _bit_ easier. 
 
 ## Features
 
