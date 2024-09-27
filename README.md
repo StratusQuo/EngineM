@@ -2,6 +2,8 @@
 
 EngineM is a D library designed to make writing `@nogc` code a _bit_ easier. 
 
+> :warning: **Warning: Alpha Release**: I would urge caution before using this in *any* production build until further testing is done.
+
 ## Features
 
 EngineM provides a quite a few allocators, as well as some memory management utilities to cater to various needs:
